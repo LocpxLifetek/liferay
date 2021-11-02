@@ -1,0 +1,4 @@
+Bundle-Name: zxc
+Bundle-SymbolicName: zxc
+Bundle-Version: 1.0.0
+Export-Package: zxc.constants
