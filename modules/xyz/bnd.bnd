@@ -1,0 +1,4 @@
+Bundle-Name: xyz
+Bundle-SymbolicName: xyz
+Bundle-Version: 1.0.0
+Export-Package: xyz.constants
